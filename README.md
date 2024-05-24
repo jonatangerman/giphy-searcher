@@ -1,6 +1,6 @@
 # Giphy Searcher
 
-This template should help get you started developing with Vue 3 in Vite.
+A nice simple app to look for gifs in giphy
 
 ## Recommended IDE Setup
 
